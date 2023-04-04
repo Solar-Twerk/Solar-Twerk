@@ -55,11 +55,11 @@ export async function updateActivity(
     details,
     state,
     largeImageKey: 'logo',
-    largeImageText: `Solar Tweaks ${remote.app.getVersion()}`,
+    largeImageText: `Solar Twerk ${remote.app.getVersion()}`,
     buttons: [
       {
-        label: '⬇️⠀Download Solar Tweaks',
-        url: 'https://github.com/Solar-Tweaks/Solar-Tweaks',
+        label: '⬇️⠀Download Solar Twerk',
+        url: 'https://github.com/Solar-Twerk/Solar-Twerk',
       },
     ],
   };

@@ -1,7 +1,7 @@
 {
   "name": "solartweaks",
   "version": "4.3.4",
-  "description": "Solar Tweaks is a tool for tweaking and customizing Lunar Client. Give yourself an upgrade in your gaming experience.",
+  "description": "Solar Twerk is a tool for twerking and customizing Lunar Client. Give yourself an upgrade in your twerking experience.",
   "homepage": "https://solartweaks.com/",
   "keywords": ["lunarclient", "solartweaks", "solarsocket", "minecraft"],
   "funding": "https://www.buymeacoffee.com/solarsocket",
@@ -11,7 +11,8 @@
     "770grappenmaker",
     "RadNotRed",
     "TBHGodPro",
-    "Naibuu"
+    "Naibuu",
+    "qualk"
   ],
   "license": "GPL-3.0",
   "bugs": {"url": "https://github.com/Solar-Tweaks/Solar-Tweaks/issues"},
