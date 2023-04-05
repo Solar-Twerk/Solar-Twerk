@@ -1,11 +1,11 @@
 {
-  "name": "solartweaks",
+  "name": "solartwerk",
   "version": "4.3.4",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "solartweaks",
+      "name": "solartwerk",
       "version": "4.3.4",
       "hasInstallScript": true,
       "license": "GPL-3.0",

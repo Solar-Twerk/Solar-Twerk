@@ -14,7 +14,7 @@ Please note that the use of Solar Twerk is at your own risk. Any changes done to
 
 # Installing
 
-You can download the latest version of Solar Tweaks from the [Releases](https://github.com/Solar-Tweaks/Solar-Tweaks/releases) page. You need to download the version corresponding to your operating system (OS). You are able to find a more in depth explanation on how to download [here](https://github.com/Solar-Tweaks/Solar-Tweaks/wiki/Download-Solar-Tweaks).
+You can download the latest version of Solar Twerk from the [Releases](https://github.com/Solar-Twerk/Solar-Twerk/releases) page. You need to download the version corresponding to your operating system (OS). You are able to find a more in depth explanation on how to download [here](https://github.com/Solar-Tweaks/Solar-Tweaks/wiki/Download-Solar-Tweaks).
 
 # Usage
 
@@ -55,7 +55,7 @@ $ npm run build
 
 # Contribute
 
-There are lots of ways to contribute to Solar Twerk:
+There are lots of ways to contribute to Solar Twerk/Tweaks:
 
 - Fork the repository and make your own modifications, then open a [Pull request](https://github.com/Solar-Tweaks/Solar-Tweaks/pulls).
 - If you encounter any glitches or bugs, submit them in [Issues page](https://github.com/Solar-Tweaks/Solar-Tweaks/issues).
