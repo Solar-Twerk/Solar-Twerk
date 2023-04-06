@@ -4,12 +4,12 @@ module.exports = {
       nodeIntegration: true,
       outputDir: 'dist',
       builderOptions: {
-        appId: 'com.solartweaks.launcher',
-        productName: 'Solar Tweaks',
+        appId: 'com.solartwerk.launcher',
+        productName: 'Solar Twerk',
         win: {
           target: 'nsis',
           icon: 'build/icons/win/icon.ico',
-          publisherName: 'Solar Tweaks',
+          publisherName: 'Solar Twerk',
           verifyUpdateCodeSignature: true,
           requestedExecutionLevel: 'asInvoker',
         },
@@ -22,11 +22,11 @@ module.exports = {
         },
         linux: {
           target: 'AppImage',
-          maintainer: 'Solar Tweaks',
-          vendor: 'Solar Tweaks',
+          maintainer: 'qualk',
+          vendor: 'Solar Twerk',
           icon: 'build/icons/linux/1024x1024.png',
-          synopsis: 'Luanr Client tweaker/customizer',
-          description: 'Solar Tweaks is a tool for tweaking and customizing Lunar Client. Give yourself an upgrade in your gaming experience.',
+          synopsis: 'Lunar Client Twerker',
+          description: 'Solar Twerk is a tool for twerking and customizing Lunar Client. Give yourself an upgrade in your twerking experience.',
           category: 'Game',
         },
         mac: {

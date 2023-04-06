@@ -1,40 +1,41 @@
-![Banner](https://i.imgur.com/vgsmtcI.png)
+![Banner](./public/banner.png)
 
-# Solar Tweaks
+# Solar Twerk
 
 ![GitHub](https://img.shields.io/github/license/Solar-Tweaks/Solar-Tweaks?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/Solar-Tweaks/Solar-Tweaks/total?style=for-the-badge)
 ![GitHub package.json version](https://img.shields.io/github/package-json/version/Solar-Tweaks/Solar-Tweaks?style=for-the-badge)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
 
-Solar Tweaks is a tweaking tool for Lunar Client, offering a wide range of modifications, including the ability to use mods which are unavailable by default. We are dedicated to providing our users with the most up-to-date patches and updates, and we are proud to have a large user base of over 200,000 individuals who have downloaded and used our tool.
+Solar Twerk is a twerking tool for Lunar Client, offering a wide range of modifications, including the ability to use mods which are unavailable by default.
+We are dedicated to providing our users with the most up-to-date patches and updates, and we are proud to have a large user base of one individual who has downloaded and used our tool.
 
-Please note that the use of Solar Tweaks is at your own risk. Any changes done to the source code of Lunar Client is in violation of their terms of service. We advise you to review Lunar Client's terms of service by clicking [here](https://www.lunarclient.com/terms) before proceeding. We cannot be held responsible for any damages that may occur as a result of using Solar Tweaks.
+Please note that the use of Solar Twerk is at your own risk. Any changes done to the source code of Lunar Client is in violation of their terms of service. We advise you to review Lunar Client's terms of service by clicking [here](https://www.lunarclient.com/terms) before proceeding. We cannot be held responsible for any damages that may occur as a result of using Solar Twerk.
 
 # Installing
 
-You can download the latest version of Solar Tweaks from the [Releases](https://github.com/Solar-Tweaks/Solar-Tweaks/releases) page. You need to download the version corresponding to your operating system (OS). You are able to find a more in depth explanation on how to download [here](https://github.com/Solar-Tweaks/Solar-Tweaks/wiki/Download-Solar-Tweaks).
+You can download the latest version of Solar Twerk from the [Releases](https://github.com/Solar-Twerk/Solar-Twerk/releases) page. You need to download the version corresponding to your operating system (OS). You are able to find a more in depth explanation on how to download [here](https://github.com/Solar-Tweaks/Solar-Tweaks/wiki/Download-Solar-Tweaks).
 
 # Usage
 
-Launching the app will present with a user interface that closely resembles the original Lunar Client Launcher. This design choice has been implemented to ensure a seamless transition for users who may wish to switch between the two launchers, reducing confusion and improving ease of use. If you have never used Lunar Client and Solar Tweaks before, visit our [Documentation](https://docs.solartweaks.com) page and Lunar Client's [Support](https://support.lunarclient.com) page.
+Launching the app will present with a user interface that closely resembles the original Lunar Client Launcher. This design choice has been implemented to ensure a seamless transition for users who may wish to switch between the two launchers, reducing confusion and improving ease of use. If you have never used Lunar Client and Solar Twerk before, visit our [Documentation](https://docs.solartweaks.com) page and Lunar Client's [Support](https://support.lunarclient.com) page.
 
-**Please note that Solar Tweaks is not a replacement for Lunar Client. Solar Tweaks is a tweaking tool for Lunar Client**
+**Please note that Solar Twerk is not a replacement for Lunar Client. Solar Twerk is a tweaking tool for Lunar Client**
 
 Customize and personalize your Lunar Client experience by navigating to the **"Engine"** tab within the app. Additionally, the **"Settings"** tab allows for customization of launcher and JRE preferences. The game can be launched at any time by utilizing the green launch button, which is accessible from any tab.
 
 # Building from source
 
-Solar Tweaks is fully open-source, allowing for users to obtain the source code and make their own modifications. To do so, the repository can be cloned using the command:
+Solar Twerk is fully open-source, allowing for users to obtain the source code and make their own modifications. To do so, the repository can be cloned using the command:
 
 ```bash
-$ git clone https://github.com/Solar-Tweaks/Solar-Tweaks.git
+$ git clone https://github.com/Solar-Twerk/Solar-Twerk.git
 ```
 
 Once the repository is downloaded, navigate to the directory and install the necessary dependencies using the commands:
 
 ```bash
-$ cd Solar-Tweaks
+$ cd Solar-Twerk
 $ npm install
 ```
 
@@ -54,7 +55,7 @@ $ npm run build
 
 # Contribute
 
-There are lots of ways to contribute to Solar Tweaks:
+There are lots of ways to contribute to Solar Twerk/Tweaks:
 
 - Fork the repository and make your own modifications, then open a [Pull request](https://github.com/Solar-Tweaks/Solar-Tweaks/pulls).
 - If you encounter any glitches or bugs, submit them in [Issues page](https://github.com/Solar-Tweaks/Solar-Tweaks/issues).

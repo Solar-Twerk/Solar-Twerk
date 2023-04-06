@@ -97,7 +97,7 @@ export default {
           await settings.set('LCInstalled', false);
           this.$store.commit(
             'setErrorMessage',
-            'It looks like you dont have Lunar Client installed. \nYou need Lunar installed in order to use Solar Tweaks.\n\nPlease download Lunar from https://lunarclient.com/download\n\nIf you do have Lunar installed, please ignore this message and click the CLOSE button below.'
+            'It looks like you dont have Lunar Client installed. \nYou need Lunar installed in order to use Solar Twerk.\n\nPlease download Lunar from https://lunarclient.com/download\n\nIf you do have Lunar installed, please ignore this message and click the CLOSE button below.'
           );
           this.$store.commit('setErrorModal', true);
         }

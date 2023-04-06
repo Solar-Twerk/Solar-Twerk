@@ -4,10 +4,10 @@
       <img
         src="@/assets/logo-gray.svg"
         id="footer-image"
-        alt="Solar Tweaks Logo"
+        alt="Solar Twerk Logo"
       />
       <h4 id="solartweaks-text" class="footer-text">
-        Solar Tweaks • {{ version }} • {{ os }} •
+        Solar Twerk • {{ version }} • {{ os }} •
         {{ served ? 'Development (Served)' : 'Production' }}
       </h4>
     </div>

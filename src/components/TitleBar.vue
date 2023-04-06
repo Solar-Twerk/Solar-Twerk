@@ -3,9 +3,9 @@
     <div id="title-bar-container">
       <div id="title-bar-label" @click="registerClick()">
         <img
-          src="https://i.imgur.com/QS5ZAal.png"
+          src="../../src/assets/label.webp"
           id="title-image"
-          alt="Solar Tweaks Logo"
+          alt="Solar Twerk Logo"
           class="logo-white"
           height="58"
           width="249"

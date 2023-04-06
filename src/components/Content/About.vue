@@ -3,7 +3,7 @@
     <Card
       icon="fa-solid fa-circle-info"
       title="LAUNCHER INFORMATION"
-      subtitle="LAUNCHER VERSION, LINKS, AND LEARN ABOUT SOLAR TWEAKS"
+      subtitle="LAUNCHER VERSION, LINKS, AND LEARN ABOUT Solar Twerk"
       background="about"
       id="about-card"
       contentClass="vertical-card-container"
@@ -19,7 +19,7 @@
           id="about-us-card-item"
         >
           <p id="about-us">
-            Solar Tweaks is a modification tool for Lunar Client. By modifying
+            Solar Twerk is a modification tool for Lunar Client. By modifying
             the game's code when it gets loaded, we add a variety of features
             that enhance your Minecraft experience.
             <br />
@@ -34,7 +34,7 @@
         </CardItem>
         <div id="little-cards">
           <CardItem
-            title="Solar Tweaks"
+            title="Solar Twerk"
             icon="fa-solid fa-comments"
             subtitle="We are now using GitHub Discussions to keep in touch with the community!"
             class="little-card"
@@ -94,7 +94,7 @@
     <Card
       icon="fa-solid fa-circle-info"
       title="CREDITS"
-      subtitle="LIST OF PEOPLE THAT HAVE HELPED MAKE SOLAR TWEAKS"
+      subtitle="LIST OF PEOPLE THAT HAVE HELPED MAKE SOLAR TWERK"
       background="about"
       id="about-card"
       contentClass="vertical-card-container"
@@ -281,7 +281,7 @@ export default {
       remote.shell.openExternal(url);
     },
     /**
-     * Opens the Solar Tweaks folder
+     * Opens the Solar Twerk folder
      */
     openSolarTweaksFolder() {
       remote.shell.openPath(constants.SOLARTWEAKS_DIR);
